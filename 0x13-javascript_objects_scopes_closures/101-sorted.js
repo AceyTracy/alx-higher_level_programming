@@ -6,4 +6,3 @@ for (const key in dic) {
   else newDic[dic[key]] = [key];
 }
 console.log(newDic);
-
